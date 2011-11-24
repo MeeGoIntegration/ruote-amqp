@@ -1,3 +1,10 @@
+ruby-ruote-amqp (2.2.0.1-1.1) unstable; urgency=low
+
+  * Convey backtrace to ruote
+  * Shorten error messages received via AMQP
+
+ -- Islam Amer <islam.amer@nokia.com>  Thu, 24 Nov 2011 23:50:57 +0200
+
 ruby-ruote-amqp (2.2.0.1-1) unstable; urgency=low
 
   * New upstream

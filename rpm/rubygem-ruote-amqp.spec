@@ -18,7 +18,7 @@
 # norootforbuild
 Name:           rubygem-ruote-amqp
 Version:        2.2.0.1
-Release:        0
+Release:        1
 %define mod_name ruote-amqp
 #
 Group:          Development/Languages/Ruby
